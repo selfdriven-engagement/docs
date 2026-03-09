@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Intersect Education Kit
 permalink: /intersect-education-kit/
 ---

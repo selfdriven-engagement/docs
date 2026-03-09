@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: On-Boarding - selfdriven Docs
 permalink: /on-boarding/
 ---

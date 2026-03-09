@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: selfdriven
 title: Cardano Catalyst - selfdriven Docs
 permalink: /cardano-catalyst/
 ---
